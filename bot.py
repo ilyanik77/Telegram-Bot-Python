@@ -4,7 +4,7 @@ import logging
 
 from aiogram import Bot, Dispatcher, executor, types
 
-TOKEN = '5923973475:AAFZx27NRQ7BFoBSdIOeD5LxR4GvF_NHWUs'
+TOKEN = (Здесь вводим полученный токен)
 
 bot = Bot(token = TOKEN)
 dp = Dispatcher(bot = bot)
